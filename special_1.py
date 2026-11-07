@@ -1,6 +1,6 @@
 import os
 import shutil
-
+import shutil
 # Kategoriyalar lug'ati
 CATEGORIES = {
     ".jpg": "Images", ".jpeg": "Images", ".png": "Images",
